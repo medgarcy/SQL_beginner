@@ -244,7 +244,6 @@ Please write a SQL statement which returns a list of pizzerias which Andrey visi
 | pizzeria_name | 
 | ------ | 
 | Pizza Hut | 
-| ... |
 
 
 
@@ -277,7 +276,7 @@ Please find the same pizza names who have the same price, but from different piz
 | **Allowed**                               |                                                                                                                          |
 | Language                        | ANSI SQL                                                                                              |
 
-Please register a new pizza with name “greek pizza” (use id = 19) with price 800 rubles in “Domino's” restaurant (pizzeria_id = 2).
+Please register a new pizza with name “greek pizza” (use id = 19) with price 800 rubles in “Dominos” restaurant (pizzeria_id = 2).
 **Warning**: this exercise will probably be the cause  of changing data in the wrong way. Actually, you can restore the initial database model with data from the link in the “Rules of the day” section.
 
 
@@ -294,7 +293,7 @@ Please register a new pizza with name “greek pizza” (use id = 19) with price
 | **Denied**                               |                                                                                                                          |
 | SQL Syntax Pattern                        | Don’t use direct numbers for identifiers of Primary Key and pizzeria                                                                                               |       
 
-Please register a new pizza with name “sicilian pizza” (whose id should be calculated by formula is “maximum id value + 1”) with a price of 900 rubles in “Domino's” restaurant (please use internal query to get identifier of pizzeria).
+Please register a new pizza with name “sicilian pizza” (whose id should be calculated by formula is “maximum id value + 1”) with a price of 900 rubles in “Dominos” restaurant (please use internal query to get identifier of pizzeria).
 **Warning**: this exercise will probably be the cause  of changing data in the wrong way. Actually, you can restore the initial database model with data from the link in the “Rules of the day” section and replay script from Exercise 07.
 
 
@@ -311,7 +310,7 @@ Please register a new pizza with name “sicilian pizza” (whose id should be c
 | **Denied**                               |                                                                                                                          |
 | SQL Syntax Pattern                        | Don’t use direct numbers for identifiers of Primary Key and pizzeria                                                                                               |       
 
-Please register new visits into Domino's restaurant from Denis and Irina on 24th of February 2022.
+Please register new visits into Dominos restaurant from Denis and Irina on 24th of February 2022.
 **Warning**: this exercise will probably be the cause  of changing data in the wrong way. Actually, you can restore the initial database model with data from the link in the “Rules of the day” section and replay script from Exercises 07 and 08..
 
 
